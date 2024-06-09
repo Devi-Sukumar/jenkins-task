@@ -1,0 +1,1 @@
+final config in develop for trigger
